@@ -1,0 +1,10 @@
+# MA Crossover Bot — License File
+# Format: STATUS:AccountNumber
+# STATUS = ACTIVE or REVOKED
+# To kill a customer: change ACTIVE to REVOKED
+# To reactivate: change REVOKED back to ACTIVE
+# Lines starting with # are ignored
+
+ACTIVE:123456789
+ACTIVE:987654321
+ACTIVE:111222333
