@@ -5,6 +5,4 @@
 # To reactivate: change REVOKED back to ACTIVE
 # Lines starting with # are ignored
 
-ACTIVE:123456789
-ACTIVE:987654321
-ACTIVE:111222333
+ACTIVE:29985186
